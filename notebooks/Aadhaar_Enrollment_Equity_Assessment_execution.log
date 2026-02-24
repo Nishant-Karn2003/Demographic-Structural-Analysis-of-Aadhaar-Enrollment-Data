@@ -1,0 +1,53 @@
+2026-01-15 01:27:27,824 | INFO | ==============================================
+2026-01-15 01:27:27,825 | INFO | EDA Phase-1 started
+2026-01-15 01:27:27,825 | INFO | Notebook execution started at 2026-01-15 01:27:27.825938
+2026-01-15 01:31:12,138 | ERROR | No such comm target registered: jupyter.widget.control
+2026-01-15 01:31:12,145 | WARNING | No such comm: e7ac208e-c341-482e-9efb-df4fc3116090
+2026-01-15 01:31:37,256 | ERROR | No such comm target registered: jupyter.widget.control
+2026-01-15 01:31:37,258 | WARNING | No such comm: 5430c1a7-bbf6-4631-a725-819631252e58
+2026-01-15 01:46:55,187 | INFO | Q1 started: Identifying structurally low enrollment maturity districts
+2026-01-15 01:46:55,217 | INFO | Q1 completed | districts_identified=681
+2026-01-15 02:02:26,746 | INFO | Q2 started: Intra-state Aadhaar inequality with extreme districts
+2026-01-15 02:02:26,816 | INFO | Q2 completed | states=54
+2026-01-15 02:12:53,755 | INFO | Q3 started: Identifying child-heavy enrollment districts
+2026-01-15 02:12:53,849 | INFO | Q3 completed | districts_identified=667 | states_covered=31
+2026-01-15 02:24:10,237 | INFO | Q4 started: Near-saturation Aadhaar districts
+2026-01-15 02:24:10,255 | INFO | Q4 completed | rows=0
+2026-01-15 02:24:45,485 | INFO | Q4 started: Near-saturation Aadhaar districts
+2026-01-15 02:24:45,504 | INFO | Q4 completed | rows=0
+2026-01-15 02:26:55,061 | INFO | Q4 started: Near-saturation Aadhaar districts
+2026-01-15 02:26:55,082 | INFO | Q4 completed | rows=1
+2026-01-15 02:27:32,578 | INFO | Q4 started: Near-saturation Aadhaar districts
+2026-01-15 02:27:32,600 | INFO | Q4 completed | rows=1
+2026-01-15 02:27:56,199 | INFO | Q4 started: Near-saturation Aadhaar districts
+2026-01-15 02:27:56,222 | INFO | Q4 completed | rows=1
+2026-01-15 02:28:28,832 | INFO | Q4 started: Near-saturation Aadhaar districts
+2026-01-15 02:28:28,854 | INFO | Q4 completed | rows=1
+2026-01-15 02:28:44,906 | INFO | Q4 started: Near-saturation Aadhaar districts
+2026-01-15 02:28:44,919 | INFO | Q4 completed | rows=0
+2026-01-15 02:30:13,470 | INFO | Q4 started: Near-saturation Aadhaar districts
+2026-01-15 02:30:13,480 | INFO | Q4 completed | near_saturation_districts=0
+2026-01-15 02:30:53,376 | INFO | Q4 started: Near-saturation Aadhaar districts
+2026-01-15 02:30:53,386 | INFO | Q4 completed | near_saturation_districts=0
+2026-01-15 02:31:51,434 | INFO | Q4 started: Near-saturation Aadhaar districts
+2026-01-15 02:31:51,445 | INFO | Q4 completed | near_saturation_districts=0
+2026-01-15 02:31:59,837 | INFO | Q4 started: Near-saturation Aadhaar districts
+2026-01-15 02:31:59,849 | INFO | Q4 completed | near_saturation_districts=0
+2026-01-15 02:33:01,073 | INFO | Q4 started: Near-saturation Aadhaar districts
+2026-01-15 02:33:01,089 | INFO | Q4 completed | near_saturation_districts=0
+2026-01-16 01:27:17,167 | INFO | ==============================================
+2026-01-16 01:27:17,172 | INFO | EDA Phase-1 started
+2026-01-16 01:27:17,173 | INFO | Notebook execution started at 2026-01-16 01:27:17.173217
+2026-01-16 01:27:49,573 | INFO | Q1 started: Identifying structurally low enrollment maturity districts
+2026-01-16 01:27:49,593 | INFO | Q1 completed | districts_identified=681
+2026-01-16 01:27:54,411 | INFO | Q2 started: Intra-state Aadhaar inequality with extreme districts
+2026-01-16 01:27:54,471 | INFO | Q2 completed | states=54
+2026-01-16 01:28:07,468 | INFO | Q3 started: Identifying child-heavy enrollment districts
+2026-01-16 01:28:07,524 | INFO | Q3 completed | districts_identified=667 | states_covered=31
+2026-01-16 01:28:20,901 | INFO | Q4 started: Near-saturation Aadhaar districts
+2026-01-16 01:28:20,912 | INFO | Q4 completed | near_saturation_districts=0
+2026-01-16 01:28:26,088 | INFO | Q5 started: Enrollment maturity classification
+2026-01-16 01:28:44,915 | INFO | Q5 started: Enrollment maturity classification
+2026-01-16 01:28:44,928 | INFO | Q5 completed
+2026-01-16 01:37:30,726 | INFO | Q6 started: Administrative anomaly detection
+2026-01-16 01:37:30,742 | INFO | Q6 completed | rows=321
